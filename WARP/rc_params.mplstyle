@@ -1,0 +1,27 @@
+figure.figsize : 3.2, 1.5
+figure.dpi : 1000
+axes.titlesize : 8
+axes.labelsize : 7
+axes.linewidth : 1
+xtick.labelsize : 6
+ytick.labelsize : 6
+xtick.major.size : 6
+ytick.major.size : 6
+xtick.minor.size : 3
+ytick.minor.size : 3
+xtick.direction : out
+ytick.direction : out
+lines.linewidth : 0.5
+lines.markersize : 0.5
+font.size : 8
+font.family : sans-serif
+font.sans-serif : Arial
+grid.linestyle : --
+grid.alpha : 0.5
+savefig.dpi : 1000
+savefig.format : png
+text.usetex: False
+svg.fonttype: none
+legend.fontsize : 6
+legend.frameon : False
+legend.title_fontsize : xx-small
